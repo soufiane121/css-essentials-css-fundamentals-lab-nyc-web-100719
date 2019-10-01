@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+
+
+
+img {
+  text-align: center;
+}
+}
+figcaption {
+text-align: center;
+width: 900px;
+}
